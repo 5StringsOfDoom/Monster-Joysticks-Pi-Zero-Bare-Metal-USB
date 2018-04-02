@@ -1,1 +1,1 @@
-# Monster-Joysticks---PiZ-Bare-Metal-USB
+# Monster Joysticks Pi Zero Bare Metal USB
