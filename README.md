@@ -1,6 +1,6 @@
 # Monster Joysticks Pi Zero Bare Metal USB
 
-This software is still in developement, it is using canabalised code from the following sources and tutorials.
+This software is still in developement, it is using cannibalized code from the following sources and tutorials.
 
 http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/
 
